@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width="500" />
 </p>
+![Snake animation](https://github.com/abhijeetbhosale/abhijeetbhosale/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -17,3 +19,4 @@
 > Version: v2.5 - BTech Upgrade in Progress 👨‍💻
 > Status: ⚡ Full-Stack Dev | 🤖 AI Bot Smith | 🛰️ Hackathonist
 > Next Evolution: "The one who builds thinking machines."
+
