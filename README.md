@@ -59,7 +59,7 @@ LLMs • RAG • LangChain • Pinecone • Vector DBs • Semantic Search
 # 3D GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/zzetao/github-profile-3d-contrib/raw/master/demo/profile-night-rainbow.svg" alt="3D GitHub Contribution Graph" />
 </p>
 
 ---
