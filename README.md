@@ -56,13 +56,6 @@ LLMs • RAG • LangChain • Pinecone • Vector DBs • Semantic Search
 
 ---
 
-# 3D GitHub Contribution Graph
-
-<p align="center">
-  <img src="!https://github.com/zzetao/github-profile-3d-contrib/raw/master/demo/profile-green-animate.svg" alt="3D GitHub Contribution Graph" />
-</p>
-
----
 
 # Activity Timeline
 <p align="center">
